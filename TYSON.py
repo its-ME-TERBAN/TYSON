@@ -10,7 +10,7 @@ from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
 # Telegram bot token and channel ID
-TOKEN = ''  # Replace with your actual bot token
+TOKEN = '8009416822:AAEWRlHmf0A_mOwje9HUahTQ6WzG0tx8ico'  # Replace with your actual bot token
 ADMIN_IDS = [6882674372]  # Added new admin ID
 CHANNEL_ID = '-1002431196846'  # Replace with your specific channel or group ID
 # Initialize the bot
